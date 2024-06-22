@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\bin\Debug\net8.0\CancellationToken.exe
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\bin\Debug\net8.0\CancellationToken.deps.json
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\bin\Debug\net8.0\CancellationToken.runtimeconfig.json
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\bin\Debug\net8.0\CancellationToken.dll
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\bin\Debug\net8.0\CancellationToken.pdb
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\obj\Debug\net8.0\CancellationToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\obj\Debug\net8.0\CancellationToken.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\obj\Debug\net8.0\CancellationToken.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\obj\Debug\net8.0\CancellationToken.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\obj\Debug\net8.0\CancellationToken.dll
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\obj\Debug\net8.0\refint\CancellationToken.dll
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\obj\Debug\net8.0\CancellationToken.pdb
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\obj\Debug\net8.0\CancellationToken.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\CancellationToken\CancellationToken\obj\Debug\net8.0\ref\CancellationToken.dll
